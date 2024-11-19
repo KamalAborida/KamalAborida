@@ -6,7 +6,7 @@ I'm a **Software Engineer** and **Frontend Developer** from Alexandria, Egypt, p
 
 ## 💼 About Me
 - **Education**: Bachelor's Degree in Computer Science from Damanhour University, Egypt (GPA: 3.5)
-- **Experience**: Game Development Team Leader @ GDSC, guiding students in programming and design principles.
+- **Experience**: Game Development Team Leader @ GDSC, Frontend Developer @ BVT
 - **Skill Focus**: Proficient in React, Next.js, Redux, JavaScript, HTML/CSS, and Git/GitHub. Familiar with Agile development, CI/CD (GitHub Actions), and testing with Vitest and Cypress.
 
 ## 🛠 Skills
